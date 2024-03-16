@@ -1,0 +1,15 @@
+name = "v2tunnel" # todo
+#name = "cf-worker-connect-test" # todo
+#main = "test/worker/cf-cdn-cgi-trace2.js"
+#main = "test/worker/worker-connect-test.js"
+main = "worker.js"
+compatibility_date = "2023-05-26"
+
+[vars]
+# UUID = "0bde817c-e978-4d9c-89b4-2efa1f930208"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "example_dev_token"
+# API_HOST = "api.v2board.com"
+UUID = "0bde817c-e978-4d9c-89b4-2efa1f930208,0976bdc7-4962-403f-8a18-7e95530f8268"
